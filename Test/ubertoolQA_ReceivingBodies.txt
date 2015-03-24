@@ -1,0 +1,408 @@
+ Variable Volume Water Model, Version 0.0
+ 
+ *******************************************
+Performed on:  3/17/2015  at  7:47
+ Standard Pond, Area = 10000 m2, Depth = 2 m
+ Chemical #            1
+ 
+Peak 1-in-10       =   7.97E+01 ppb
+Chronic 1-in-10    =   7.43E+00 ppb
+ 
+4-day avg 1-in-10  =   7.52E+01 ppb
+21-day avg 1-in-10 =   6.20E+01 ppb
+60-day avg 1-in-10 =   3.88E+01 ppb
+90-day avg 1-in-10 =   2.81E+01 ppb
+ 
+ YEAR    Peak      4-day      21-day     60-day     90-day   Yearly Avg
+  1    7.38E+01   6.92E+01   4.98E+01   2.91E+01   2.10E+01   5.55E+00
+  2    6.52E+01   6.09E+01   4.28E+01   2.34E+01   1.66E+01   4.41E+00
+  3    8.84E+01   8.32E+01   6.82E+01   4.52E+01   3.26E+01   8.48E+00
+  4    7.32E+01   6.92E+01   5.00E+01   2.71E+01   1.94E+01   5.17E+00
+  5    7.38E+01   6.98E+01   5.08E+01   2.82E+01   2.03E+01   5.50E+00
+  6    7.73E+01   7.27E+01   5.32E+01   3.73E+01   2.80E+01   7.46E+00
+  7    7.81E+01   7.35E+01   6.23E+01   3.88E+01   2.79E+01   7.28E+00
+  8    7.16E+01   6.72E+01   4.76E+01   2.57E+01   1.82E+01   4.83E+00
+  9    7.02E+01   6.58E+01   4.75E+01   2.64E+01   1.89E+01   5.09E+00
+ 10    7.95E+01   7.51E+01   6.19E+01   3.91E+01   2.81E+01   7.42E+00
+ 11    7.38E+01   6.94E+01   5.02E+01   2.76E+01   1.96E+01   5.18E+00
+ 12    7.25E+01   6.83E+01   5.01E+01   2.77E+01   1.98E+01   5.30E+00
+ 13    6.85E+01   6.44E+01   4.67E+01   2.59E+01   1.94E+01   5.31E+00
+ 14    8.07E+01   7.61E+01   5.62E+01   3.09E+01   2.19E+01   5.93E+00
+ 15    6.75E+01   6.34E+01   4.41E+01   2.27E+01   1.61E+01   4.25E+00
+ 16    7.40E+01   6.95E+01   4.96E+01   3.80E+01   2.81E+01   7.36E+00
+ 17    7.19E+01   6.78E+01   5.04E+01   2.89E+01   2.08E+01   5.58E+00
+ 18    7.11E+01   6.68E+01   5.01E+01   2.81E+01   1.99E+01   5.21E+00
+ 19    6.28E+01   5.90E+01   4.10E+01   2.17E+01   1.54E+01   4.13E+00
+ 20    6.87E+01   6.46E+01   4.71E+01   2.62E+01   1.87E+01   4.99E+00
+ 21    7.70E+01   7.24E+01   5.21E+01   2.77E+01   1.95E+01   5.18E+00
+ 22    6.57E+01   6.16E+01   4.47E+01   2.53E+01   1.80E+01   4.75E+00
+ 23    6.58E+01   6.18E+01   4.49E+01   2.51E+01   1.80E+01   4.81E+00
+ 24    6.60E+01   6.15E+01   4.25E+01   2.20E+01   1.56E+01   4.16E+00
+ 25    6.91E+01   6.50E+01   4.65E+01   3.04E+01   2.17E+01   5.68E+00
+ 26    7.08E+01   6.65E+01   4.80E+01   2.74E+01   1.99E+01   5.30E+00
+ 27    7.31E+01   6.87E+01   4.97E+01   3.16E+01   2.31E+01   6.15E+00
+ 28    6.94E+01   6.49E+01   4.58E+01   2.47E+01   1.76E+01   4.66E+00
+ 
+ 
+ ***********************************************************************
+ Effective compartment halflives averaged over simulation duration:
+ 
+ zero washout
+ water col metab halflife (days) =      36.73755    
+ hydrolysis halflife (days)  =          79.00809    
+ photolysis halflife (days)  =          215.9563    
+ volatile halflife (days)  =            66171.72    
+ total water col halflife (days) =      22.46044    
+ 
+ zero burial
+ benthic metab halflife (days) =        79.59802    
+ benthic hydrolysis halflife (days) =   505.5948    
+ total benthic halflife (days) =        68.77108    
+ ***********************************************************************
+ 
+ **************** Inputs *******************
+ Chemical #            1
+   30.0000000000000      
+ Water Column System Halflife(except photo & hydrolysis = 
+   65.0000000000000      Benthic Compartment Halflife (except hydrolysis) = 
+   2.50000000000000      Photolysis Halflife =        
+   79.0000000000000      Hydrolysis Halflife =        
+   202.000000000000      Molecular Wieght =           
+  1.300000000000000E-006 Vapor Pressure =             
+   100.000000000000      Solubility =                 
+   50.0000000000000      Koc =                        
+   20.0000000000000      Aerobic Reference Temper =   
+   20.0000000000000      Anaerobic Reference Temper = 
+   40.0000000000000      Reference Latitude =         
+   20000.0000000000      Enthalpy of Henry =          
+   20.0000000000000      Henry Reference Temperature  
+ ****************** End of Run ************************
+ ******************************************************
+ 
+ 
+ ***********************************************************************
+ **************** Inputs *******************
+ Chemical #            1
+   30.0000000000000      
+ Water Column System Halflife(except photo & hydrolysis = 
+   65.0000000000000      Benthic Compartment Halflife (except hydrolysis) = 
+   2.50000000000000      Photolysis Halflife =        
+   79.0000000000000      Hydrolysis Halflife =        
+   202.000000000000      Molecular Wieght =           
+  1.300000000000000E-006 Vapor Pressure =             
+   100.000000000000      Solubility =                 
+   50.0000000000000      Koc =                        
+   20.0000000000000      Aerobic Reference Temper =   
+   20.0000000000000      Anaerobic Reference Temper = 
+   40.0000000000000      Reference Latitude =         
+   20000.0000000000      Enthalpy of Henry =          
+   20.0000000000000      Henry Reference Temperature  
+ ****************** End of Run ************************
+ ******************************************************
+ 
+ Variable Volume Water Model, Version 0.0
+ 
+ *******************************************
+Performed on:  3/17/2015  at  7:47
+ Standard Reservoir, Area = 52555 m2,  Depth = 2.73 m 
+ Chemical #            1
+ 
+Peak 1-in-10       =   1.11E+01 ppb
+Chronic 1-in-10    =   1.04E+00 ppb
+ 
+4-day avg 1-in-10  =   1.05E+01 ppb
+21-day avg 1-in-10 =   8.68E+00 ppb
+60-day avg 1-in-10 =   5.47E+00 ppb
+90-day avg 1-in-10 =   3.95E+00 ppb
+ 
+ YEAR    Peak      4-day      21-day     60-day     90-day   Yearly Avg
+  1    1.03E+01   9.68E+00   6.98E+00   4.09E+00   2.96E+00   7.83E-01
+  2    9.09E+00   8.50E+00   6.02E+00   3.30E+00   2.34E+00   6.22E-01
+  3    1.23E+01   1.16E+01   9.56E+00   6.34E+00   4.59E+00   1.19E+00
+  4    1.02E+01   9.66E+00   7.01E+00   3.83E+00   2.74E+00   7.32E-01
+  5    1.03E+01   9.75E+00   7.12E+00   3.98E+00   2.87E+00   7.76E-01
+  6    1.08E+01   1.02E+01   7.49E+00   5.25E+00   3.95E+00   1.05E+00
+  7    1.09E+01   1.03E+01   8.74E+00   5.46E+00   3.93E+00   1.03E+00
+  8    9.99E+00   9.38E+00   6.68E+00   3.62E+00   2.58E+00   6.84E-01
+  9    9.79E+00   9.19E+00   6.67E+00   3.73E+00   2.68E+00   7.19E-01
+ 10    1.11E+01   1.05E+01   8.67E+00   5.49E+00   3.95E+00   1.04E+00
+ 11    1.03E+01   9.69E+00   7.04E+00   3.89E+00   2.76E+00   7.31E-01
+ 12    1.01E+01   9.53E+00   7.02E+00   3.91E+00   2.79E+00   7.49E-01
+ 13    9.57E+00   9.00E+00   6.55E+00   3.65E+00   2.74E+00   7.49E-01
+ 14    1.12E+01   1.06E+01   7.88E+00   4.35E+00   3.10E+00   8.37E-01
+ 15    9.41E+00   8.85E+00   6.20E+00   3.21E+00   2.27E+00   6.01E-01
+ 16    1.04E+01   9.77E+00   6.99E+00   5.36E+00   3.96E+00   1.04E+00
+ 17    1.00E+01   9.46E+00   7.08E+00   4.07E+00   2.93E+00   7.87E-01
+ 18    9.94E+00   9.33E+00   7.02E+00   3.95E+00   2.79E+00   7.33E-01
+ 19    8.76E+00   8.24E+00   5.75E+00   3.06E+00   2.17E+00   5.85E-01
+ 20    9.58E+00   9.02E+00   6.61E+00   3.68E+00   2.62E+00   7.02E-01
+ 21    1.07E+01   1.01E+01   7.31E+00   3.90E+00   2.76E+00   7.32E-01
+ 22    9.16E+00   8.59E+00   6.26E+00   3.53E+00   2.52E+00   6.64E-01
+ 23    9.17E+00   8.64E+00   6.30E+00   3.55E+00   2.55E+00   6.80E-01
+ 24    9.20E+00   8.59E+00   5.96E+00   3.11E+00   2.21E+00   5.89E-01
+ 25    9.67E+00   9.10E+00   6.53E+00   4.27E+00   3.06E+00   8.01E-01
+ 26    9.89E+00   9.30E+00   6.74E+00   3.85E+00   2.80E+00   7.47E-01
+ 27    1.02E+01   9.63E+00   6.98E+00   4.45E+00   3.25E+00   8.67E-01
+ 28    9.68E+00   9.07E+00   6.42E+00   3.49E+00   2.48E+00   6.59E-01
+ 
+ 
+ ***********************************************************************
+ Effective compartment halflives averaged over simulation duration:
+ 
+ washout halflife (days) =              1784.785    
+ water col metab halflife (days) =      36.73755    
+ hydrolysis halflife (days)  =          79.00809    
+ photolysis halflife (days)  =          294.7804    
+ volatile halflife (days)  =            90324.38    
+ total water col halflife (days) =      22.80982    
+ 
+ zero burial
+ benthic metab halflife (days) =        79.59802    
+ benthic hydrolysis halflife (days) =   505.5948    
+ total benthic halflife (days) =        68.77108    
+ ***********************************************************************
+ 
+ **************** Inputs *******************
+ Chemical #            1
+   30.0000000000000      
+ Water Column System Halflife(except photo & hydrolysis = 
+   65.0000000000000      Benthic Compartment Halflife (except hydrolysis) = 
+   2.50000000000000      Photolysis Halflife =        
+   79.0000000000000      Hydrolysis Halflife =        
+   202.000000000000      Molecular Wieght =           
+  1.300000000000000E-006 Vapor Pressure =             
+   100.000000000000      Solubility =                 
+   50.0000000000000      Koc =                        
+   20.0000000000000      Aerobic Reference Temper =   
+   20.0000000000000      Anaerobic Reference Temper = 
+   40.0000000000000      Reference Latitude =         
+   20000.0000000000      Enthalpy of Henry =          
+   20.0000000000000      Henry Reference Temperature  
+ ****************** End of Run ************************
+ ******************************************************
+ 
+ 
+ ***********************************************************************
+ **************** Inputs *******************
+ Chemical #            1
+   30.0000000000000      
+ Water Column System Halflife(except photo & hydrolysis = 
+   65.0000000000000      Benthic Compartment Halflife (except hydrolysis) = 
+   2.50000000000000      Photolysis Halflife =        
+   79.0000000000000      Hydrolysis Halflife =        
+   202.000000000000      Molecular Wieght =           
+  1.300000000000000E-006 Vapor Pressure =             
+   100.000000000000      Solubility =                 
+   50.0000000000000      Koc =                        
+   20.0000000000000      Aerobic Reference Temper =   
+   20.0000000000000      Anaerobic Reference Temper = 
+   40.0000000000000      Reference Latitude =         
+   20000.0000000000      Enthalpy of Henry =          
+   20.0000000000000      Henry Reference Temperature  
+ ****************** End of Run ************************
+ ******************************************************
+ 
+ Variable Volume Water Model, Version 0.0
+ 
+ *******************************************
+Performed on:  3/17/2015  at  7:47
+MIXING CELL, Width =      1.0  Depth=      5.0  Length =      1.0
+ Chemical #            1
+ 
+Peak 1-in-10       =   1.72E+01 ppb
+Chronic 1-in-10    =   7.15E-02 ppb
+ 
+4-day avg 1-in-10  =   4.55E+00 ppb
+21-day avg 1-in-10 =   1.13E+00 ppb
+60-day avg 1-in-10 =   4.29E-01 ppb
+90-day avg 1-in-10 =   2.87E-01 ppb
+ 
+ YEAR    Peak      4-day      21-day     60-day     90-day   Yearly Avg
+  1    1.20E+01   3.58E+00   8.99E-01   3.19E-01   2.14E-01   5.35E-02
+  2    1.52E+01   3.81E+00   7.48E-01   2.65E-01   1.78E-01   4.48E-02
+  3    8.78E+00   5.51E+00   1.35E+00   4.76E-01   3.19E-01   7.91E-02
+  4    1.70E+01   4.29E+00   8.31E-01   2.98E-01   2.00E-01   5.03E-02
+  5    1.71E+01   4.31E+00   8.30E-01   2.97E-01   1.99E-01   5.03E-02
+  6    1.34E+01   3.38E+00   6.60E-01   4.14E-01   2.77E-01   6.92E-02
+  7    1.69E+01   4.54E+00   1.22E+00   4.32E-01   2.90E-01   7.20E-02
+  8    1.66E+01   4.16E+00   7.96E-01   2.86E-01   1.91E-01   4.82E-02
+  9    1.64E+01   4.09E+00   7.92E-01   2.86E-01   1.93E-01   4.86E-02
+ 10    1.51E+01   3.89E+00   1.12E+00   3.99E-01   2.66E-01   6.68E-02
+ 11    1.70E+01   4.26E+00   8.21E-01   2.92E-01   1.95E-01   4.92E-02
+ 12    1.67E+01   4.18E+00   8.05E-01   2.89E-01   1.95E-01   4.90E-02
+ 13    1.47E+01   3.68E+00   8.20E-01   2.96E-01   1.99E-01   5.03E-02
+ 14    1.87E+01   4.67E+00   8.97E-01   3.17E-01   2.12E-01   5.38E-02
+ 15    1.57E+01   3.95E+00   7.52E-01   2.68E-01   1.81E-01   4.54E-02
+ 16    1.15E+01   3.47E+00   6.61E-01   4.29E-01   2.87E-01   7.15E-02
+ 17    1.67E+01   4.17E+00   8.15E-01   2.93E-01   1.98E-01   4.99E-02
+ 18    1.01E+01   2.68E+00   8.87E-01   3.12E-01   2.09E-01   5.24E-02
+ 19    1.47E+01   3.74E+00   7.19E-01   2.56E-01   1.72E-01   4.34E-02
+ 20    1.60E+01   3.99E+00   7.84E-01   2.80E-01   1.88E-01   4.73E-02
+ 21    1.77E+01   4.43E+00   8.47E-01   3.00E-01   2.02E-01   5.07E-02
+ 22    1.51E+01   3.81E+00   7.53E-01   2.72E-01   1.81E-01   4.54E-02
+ 23    1.53E+01   3.86E+00   7.49E-01   2.70E-01   1.81E-01   4.57E-02
+ 24    1.54E+01   3.84E+00   7.36E-01   2.65E-01   1.78E-01   4.48E-02
+ 25    9.60E+00   2.69E+00   9.79E-01   3.45E-01   2.31E-01   5.76E-02
+ 26    1.38E+01   3.47E+00   8.66E-01   3.08E-01   2.07E-01   5.20E-02
+ 27    1.02E+01   2.58E+00   9.94E-01   3.51E-01   2.35E-01   5.91E-02
+ 28    1.61E+01   4.03E+00   7.84E-01   2.79E-01   1.88E-01   4.73E-02
+ 
+ 
+ ***********************************************************************
+ Effective compartment halflives averaged over simulation duration:
+ 
+ washout halflife (days) =             4.0086390E-05
+ water col metab halflife (days) =      36.73755    
+ hydrolysis halflife (days)  =          79.00809    
+ photolysis halflife (days)  =          539.8908    
+ volatile halflife (days)  =            165429.3    
+ total water col halflife (days) =     4.0086325E-05
+ 
+ zero burial
+ benthic metab halflife (days) =        79.59802    
+ benthic hydrolysis halflife (days) =   505.5948    
+ total benthic halflife (days) =        68.77108    
+ ***********************************************************************
+ 
+ **************** Inputs *******************
+ Chemical #            1
+   30.0000000000000      
+ Water Column System Halflife(except photo & hydrolysis = 
+   65.0000000000000      Benthic Compartment Halflife (except hydrolysis) = 
+   2.50000000000000      Photolysis Halflife =        
+   79.0000000000000      Hydrolysis Halflife =        
+   202.000000000000      Molecular Wieght =           
+  1.300000000000000E-006 Vapor Pressure =             
+   100.000000000000      Solubility =                 
+   50.0000000000000      Koc =                        
+   20.0000000000000      Aerobic Reference Temper =   
+   20.0000000000000      Anaerobic Reference Temper = 
+   40.0000000000000      Reference Latitude =         
+   20000.0000000000      Enthalpy of Henry =          
+   20.0000000000000      Henry Reference Temperature  
+ ****************** End of Run ************************
+ ******************************************************
+ 
+ 
+ ***********************************************************************
+ **************** Inputs *******************
+ Chemical #            1
+   30.0000000000000      
+ Water Column System Halflife(except photo & hydrolysis = 
+   65.0000000000000      Benthic Compartment Halflife (except hydrolysis) = 
+   2.50000000000000      Photolysis Halflife =        
+   79.0000000000000      Hydrolysis Halflife =        
+   202.000000000000      Molecular Wieght =           
+  1.300000000000000E-006 Vapor Pressure =             
+   100.000000000000      Solubility =                 
+   50.0000000000000      Koc =                        
+   20.0000000000000      Aerobic Reference Temper =   
+   20.0000000000000      Anaerobic Reference Temper = 
+   40.0000000000000      Reference Latitude =         
+   20000.0000000000      Enthalpy of Henry =          
+   20.0000000000000      Henry Reference Temperature  
+ ****************** End of Run ************************
+ ******************************************************
+ 
+ Variable Volume Water Model, Version 0.0
+ 
+ *******************************************
+Performed on:  3/17/2015  at  7:47
+MIXING CELL, Width =      1.0  Depth=      5.0  Length =      1.0
+ Chemical #            1
+ 
+Peak 1-in-10       =   1.72E+01 ppb
+Chronic 1-in-10    =   7.15E-02 ppb
+ 
+4-day avg 1-in-10  =   4.55E+00 ppb
+21-day avg 1-in-10 =   1.13E+00 ppb
+60-day avg 1-in-10 =   4.29E-01 ppb
+90-day avg 1-in-10 =   2.87E-01 ppb
+ 
+ YEAR    Peak      4-day      21-day     60-day     90-day   Yearly Avg
+  1    1.20E+01   3.58E+00   8.99E-01   3.19E-01   2.14E-01   5.35E-02
+  2    1.52E+01   3.81E+00   7.48E-01   2.65E-01   1.78E-01   4.48E-02
+  3    8.78E+00   5.51E+00   1.35E+00   4.76E-01   3.19E-01   7.91E-02
+  4    1.70E+01   4.29E+00   8.31E-01   2.98E-01   2.00E-01   5.03E-02
+  5    1.71E+01   4.31E+00   8.30E-01   2.97E-01   1.99E-01   5.03E-02
+  6    1.34E+01   3.38E+00   6.60E-01   4.14E-01   2.77E-01   6.92E-02
+  7    1.69E+01   4.54E+00   1.22E+00   4.32E-01   2.90E-01   7.20E-02
+  8    1.66E+01   4.16E+00   7.96E-01   2.86E-01   1.91E-01   4.82E-02
+  9    1.64E+01   4.09E+00   7.92E-01   2.86E-01   1.93E-01   4.86E-02
+ 10    1.51E+01   3.89E+00   1.12E+00   3.99E-01   2.66E-01   6.68E-02
+ 11    1.70E+01   4.26E+00   8.21E-01   2.92E-01   1.95E-01   4.92E-02
+ 12    1.67E+01   4.18E+00   8.05E-01   2.89E-01   1.95E-01   4.90E-02
+ 13    1.47E+01   3.68E+00   8.20E-01   2.96E-01   1.99E-01   5.03E-02
+ 14    1.87E+01   4.67E+00   8.97E-01   3.17E-01   2.12E-01   5.38E-02
+ 15    1.57E+01   3.95E+00   7.52E-01   2.68E-01   1.81E-01   4.54E-02
+ 16    1.15E+01   3.47E+00   6.61E-01   4.29E-01   2.87E-01   7.15E-02
+ 17    1.67E+01   4.17E+00   8.15E-01   2.93E-01   1.98E-01   4.99E-02
+ 18    1.01E+01   2.68E+00   8.87E-01   3.12E-01   2.09E-01   5.24E-02
+ 19    1.47E+01   3.74E+00   7.19E-01   2.56E-01   1.72E-01   4.34E-02
+ 20    1.60E+01   3.99E+00   7.84E-01   2.80E-01   1.88E-01   4.73E-02
+ 21    1.77E+01   4.43E+00   8.47E-01   3.00E-01   2.02E-01   5.07E-02
+ 22    1.51E+01   3.81E+00   7.53E-01   2.72E-01   1.81E-01   4.54E-02
+ 23    1.53E+01   3.86E+00   7.49E-01   2.70E-01   1.81E-01   4.57E-02
+ 24    1.54E+01   3.84E+00   7.36E-01   2.65E-01   1.78E-01   4.48E-02
+ 25    9.60E+00   2.69E+00   9.79E-01   3.45E-01   2.31E-01   5.76E-02
+ 26    1.38E+01   3.47E+00   8.66E-01   3.08E-01   2.07E-01   5.20E-02
+ 27    1.02E+01   2.58E+00   9.94E-01   3.51E-01   2.35E-01   5.91E-02
+ 28    1.61E+01   4.03E+00   7.84E-01   2.79E-01   1.88E-01   4.73E-02
+ 
+ 
+ ***********************************************************************
+ Effective compartment halflives averaged over simulation duration:
+ 
+ washout halflife (days) =             4.0086390E-05
+ water col metab halflife (days) =      36.73755    
+ hydrolysis halflife (days)  =          79.00809    
+ photolysis halflife (days)  =          539.8908    
+ volatile halflife (days)  =            165429.3    
+ total water col halflife (days) =     4.0086325E-05
+ 
+ zero burial
+ benthic metab halflife (days) =        79.59802    
+ benthic hydrolysis halflife (days) =   505.5948    
+ total benthic halflife (days) =        68.77108    
+ ***********************************************************************
+ 
+ **************** Inputs *******************
+ Chemical #            1
+   30.0000000000000      
+ Water Column System Halflife(except photo & hydrolysis = 
+   65.0000000000000      Benthic Compartment Halflife (except hydrolysis) = 
+   2.50000000000000      Photolysis Halflife =        
+   79.0000000000000      Hydrolysis Halflife =        
+   202.000000000000      Molecular Wieght =           
+  1.300000000000000E-006 Vapor Pressure =             
+   100.000000000000      Solubility =                 
+   50.0000000000000      Koc =                        
+   20.0000000000000      Aerobic Reference Temper =   
+   20.0000000000000      Anaerobic Reference Temper = 
+   40.0000000000000      Reference Latitude =         
+   20000.0000000000      Enthalpy of Henry =          
+   20.0000000000000      Henry Reference Temperature  
+ ****************** End of Run ************************
+ ******************************************************
+ 
+ 
+ ***********************************************************************
+ **************** Inputs *******************
+ Chemical #            1
+   30.0000000000000      
+ Water Column System Halflife(except photo & hydrolysis = 
+   65.0000000000000      Benthic Compartment Halflife (except hydrolysis) = 
+   2.50000000000000      Photolysis Halflife =        
+   79.0000000000000      Hydrolysis Halflife =        
+   202.000000000000      Molecular Wieght =           
+  1.300000000000000E-006 Vapor Pressure =             
+   100.000000000000      Solubility =                 
+   50.0000000000000      Koc =                        
+   20.0000000000000      Aerobic Reference Temper =   
+   20.0000000000000      Anaerobic Reference Temper = 
+   40.0000000000000      Reference Latitude =         
+   20000.0000000000      Enthalpy of Henry =          
+   20.0000000000000      Henry Reference Temperature  
+ ****************** End of Run ************************
+ ******************************************************
+ 

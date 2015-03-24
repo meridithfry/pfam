@@ -1,0 +1,70 @@
+C:\Documents and Settings\Dirk Yiung\My Documents\fortran\PFAM\UserInterface\obj\Debug\PFAM.exe
+C:\Documents and Settings\Dirk Yiung\My Documents\fortran\PFAM\UserInterface\obj\Debug\PFAM.xml
+C:\Documents and Settings\Dirk Yiung\My Documents\fortran\PFAM\UserInterface\obj\Debug\PFAM.pdb
+C:\Documents and Settings\Dirk Yiung\My Documents\fortran\PFAM\package\PFAM.exe
+C:\Documents and Settings\Dirk Yiung\My Documents\fortran\PFAM\package\PFAM.pdb
+C:\Documents and Settings\Dirk Yiung\My Documents\fortran\PFAM\package\PFAM.xml
+C:\Documents and Settings\Dirk Yiung\My Documents\fortran\PFAM\UserInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dirk Yiung\My Documents\fortran\PFAM\UserInterface\obj\Debug\UserInterface.Form1.resources
+C:\Documents and Settings\Dirk Yiung\My Documents\fortran\PFAM\UserInterface\obj\Debug\UserInterface.HelpInfo.resources
+C:\Documents and Settings\Dirk Yiung\My Documents\fortran\PFAM\UserInterface\obj\Debug\UserInterface.Resources.resources
+C:\Documents and Settings\Dirk Yiung\My Documents\fortran\PFAM\UserInterface\obj\Debug\UserInterface.vbproj.GenerateResource.Cache
+C:\Documents and Settings\dyoung03.AA\My Documents\fortran\PFAM\UserInterface\obj\Debug\PFAM.exe
+C:\Documents and Settings\dyoung03.AA\My Documents\fortran\PFAM\UserInterface\obj\Debug\PFAM.xml
+C:\Documents and Settings\dyoung03.AA\My Documents\fortran\PFAM\UserInterface\obj\Debug\PFAM.pdb
+C:\Documents and Settings\dyoung03.AA\My Documents\fortran\PFAM\package\PFAM.exe
+C:\Documents and Settings\dyoung03.AA\My Documents\fortran\PFAM\package\PFAM.pdb
+C:\Documents and Settings\dyoung03.AA\My Documents\fortran\PFAM\package\PFAM.xml
+C:\Documents and Settings\dyoung03.AA\My Documents\fortran\PFAM\UserInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dyoung03.AA\My Documents\fortran\PFAM\UserInterface\obj\Debug\UserInterface.Form1.resources
+C:\Documents and Settings\dyoung03.AA\My Documents\fortran\PFAM\UserInterface\obj\Debug\UserInterface.HelpInfo.resources
+C:\Documents and Settings\dyoung03.AA\My Documents\fortran\PFAM\UserInterface\obj\Debug\UserInterface.Resources.resources
+C:\Documents and Settings\dyoung03.AA\My Documents\fortran\PFAM\UserInterface\obj\Debug\UserInterface.vbproj.GenerateResource.Cache
+C:\Documents and Settings\dyoung03\My Documents\fortran\PFAM\package\PFAM.exe
+C:\Documents and Settings\dyoung03\My Documents\fortran\PFAM\package\PFAM.pdb
+C:\Documents and Settings\dyoung03\My Documents\fortran\PFAM\package\PFAM.xml
+C:\Documents and Settings\dyoung03\My Documents\fortran\PFAM\UserInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dyoung03\My Documents\fortran\PFAM\UserInterface\obj\Debug\UserInterface.Form1.resources
+C:\Documents and Settings\dyoung03\My Documents\fortran\PFAM\UserInterface\obj\Debug\UserInterface.HelpInfo.resources
+C:\Documents and Settings\dyoung03\My Documents\fortran\PFAM\UserInterface\obj\Debug\UserInterface.Resources.resources
+C:\Documents and Settings\dyoung03\My Documents\fortran\PFAM\UserInterface\obj\Debug\PFAM.exe
+C:\Documents and Settings\dyoung03\My Documents\fortran\PFAM\UserInterface\obj\Debug\PFAM.xml
+C:\Documents and Settings\dyoung03\My Documents\fortran\PFAM\UserInterface\obj\Debug\PFAM.pdb
+C:\Documents and Settings\dyoung03\My Documents\fortran\PFAM\package\PFAM.exe.config
+C:\Documents and Settings\dyoung03\My Documents\fortran\PFAM\UserInterface\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\dyoung03\My Documents\fortran\PFAM\UserInterface\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\Documents\fortran\PFAM\package\PFAM.exe.config
+C:\Users\Owner\Documents\fortran\PFAM\package\PFAM.exe
+C:\Users\Owner\Documents\fortran\PFAM\package\PFAM.pdb
+C:\Users\Owner\Documents\fortran\PFAM\package\PFAM.xml
+C:\Users\Owner\Documents\fortran\PFAM\UserInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\fortran\PFAM\UserInterface\obj\Debug\UserInterface.Form1.resources
+C:\Users\Owner\Documents\fortran\PFAM\UserInterface\obj\Debug\UserInterface.HelpInfo.resources
+C:\Users\Owner\Documents\fortran\PFAM\UserInterface\obj\Debug\UserInterface.Resources.resources
+C:\Users\Owner\Documents\fortran\PFAM\UserInterface\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\Documents\fortran\PFAM\UserInterface\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\Documents\fortran\PFAM\UserInterface\obj\Debug\PFAM.exe
+C:\Users\Owner\Documents\fortran\PFAM\UserInterface\obj\Debug\PFAM.xml
+C:\Users\Owner\Documents\fortran\PFAM\UserInterface\obj\Debug\PFAM.pdb
+E:\PFAM\package\PFAM.exe.config
+E:\PFAM\UserInterface\obj\Debug\PFAM.exe
+E:\PFAM\UserInterface\obj\Debug\PFAM.xml
+E:\PFAM\UserInterface\obj\Debug\PFAM.pdb
+E:\PFAM\package\PFAM.exe
+E:\PFAM\package\PFAM.pdb
+E:\PFAM\package\PFAM.xml
+E:\PFAM\UserInterface\obj\Debug\UserInterface.Form1.resources
+E:\PFAM\UserInterface\obj\Debug\UserInterface.HelpInfo.resources
+E:\PFAM\UserInterface\obj\Debug\UserInterface.Resources.resources
+J:\PFAM\package\PFAM.exe.config
+J:\PFAM\UserInterface\obj\Debug\PFAM.exe
+J:\PFAM\UserInterface\obj\Debug\PFAM.xml
+J:\PFAM\UserInterface\obj\Debug\PFAM.pdb
+J:\PFAM\package\PFAM.exe
+J:\PFAM\package\PFAM.pdb
+J:\PFAM\package\PFAM.xml
+J:\PFAM\UserInterface\obj\Debug\UserInterface.Form1.resources
+J:\PFAM\UserInterface\obj\Debug\UserInterface.HelpInfo.resources
+J:\PFAM\UserInterface\obj\Debug\UserInterface.Resources.resources
+E:\PFAM\UserInterface\obj\Debug\UserInterface.vbproj.GenerateResource.Cache
+J:\PFAM\UserInterface\obj\Debug\UserInterface.vbproj.GenerateResource.Cache

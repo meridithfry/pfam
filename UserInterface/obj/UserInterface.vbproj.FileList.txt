@@ -1,0 +1,11 @@
+..\package\PFAM.exe
+..\package\PFAM.pdb
+..\package\PFAM.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\UserInterface.Form1.resources
+obj\Debug\UserInterface.HelpInfo.resources
+obj\Debug\UserInterface.Resources.resources
+obj\Debug\UserInterface.vbproj.GenerateResource.Cache
+obj\Debug\PFAM.exe
+obj\Debug\PFAM.xml
+obj\Debug\PFAM.pdb

@@ -1,0 +1,11 @@
+E:\PFAM\package\PFAM.exe.config
+E:\PFAM\package\PFAM.exe
+E:\PFAM\package\PFAM.pdb
+E:\PFAM\package\PFAM.xml
+E:\PFAM\UserInterface\obj\Release\UserInterface.Form1.resources
+E:\PFAM\UserInterface\obj\Release\UserInterface.HelpInfo.resources
+E:\PFAM\UserInterface\obj\Release\UserInterface.Resources.resources
+E:\PFAM\UserInterface\obj\Release\UserInterface.vbproj.GenerateResource.Cache
+E:\PFAM\UserInterface\obj\Release\PFAM.exe
+E:\PFAM\UserInterface\obj\Release\PFAM.xml
+E:\PFAM\UserInterface\obj\Release\PFAM.pdb

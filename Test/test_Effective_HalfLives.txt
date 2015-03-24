@@ -1,0 +1,11 @@
+ Effective compartment halflives averaged over simulation duration:
+ 
+ ----Chemical            1
+ Washout halflife            =                 Infinity
+ Aerobic halflife            =    26.2409088073786     
+ Hydrolysis halflife         =    100001880.705521     
+ Photolysis halflife         =    412.214931773477     
+ Volatilization halflife     =    4912198.41202689     
+ Leakage halflife(water col) =                 Infinity
+ Benthic Metabolism halflife =    221.854956280565     
+ Benthic Hydrolysis halflife =    423995603.690068     
